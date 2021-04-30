@@ -1,3 +1,4 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsuficiente%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 ### Procurando scripts gratuitos, não é? 👀
 Abaixo desse texto você pode olhar e baixar os scripts que eu criei para vocês, gratuitamente.
 <br>
@@ -9,4 +10,3 @@ Sinta-se livre para escolher o qual você precisa para o seu servidor de rolepla
 - Também temos o nosso canal de ajuda comunitária(**#🎓▹chat-suporte**), que é geralmente tem uma resposta muito mais rápida do que pelos tickets. Porém isso vai de sua escolha 😉
 - Não esqueça de ser amigável! e evite de falar de coisas "vazadas" por lá. Evitamos causar confusões com qualquer outros desenvolvedores da comunidade de FiveM.
 <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsuficiente%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
