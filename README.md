@@ -1,2 +1,2 @@
-## Procurando scripts gratuitos, né?
+## Procurando scripts gratuitos, né? 👀
 <br>
