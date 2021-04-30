@@ -10,4 +10,4 @@ Sinta-se livre para escolher o qual você precisa para o seu servidor de rolepla
 - Também temos o nosso canal de ajuda comunitária(**#🎓▹chat-suporte**), que é geralmente tem uma resposta muito mais rápida do que pelos tickets. Porém isso vai de sua escolha 😉
 - Não esqueça de ser amigável! e evite de falar de coisas "vazadas" por lá. Evitamos causar confusões com qualquer outros desenvolvedores da comunidade de FiveM.
 <br>
-Convite: https://discord.gg/jqpmr5FRuT
+Link para convite: https://discord.gg/jqpmr5FRuT 🔗
