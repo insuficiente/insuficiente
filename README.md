@@ -9,4 +9,5 @@ Sinta-se livre para escolher o qual você precisa para o seu servidor de rolepla
 - Oferecemos um suporte gratuito através do nosso sistema de tickets. Basta apenas digitar **-ticket** no nosso canal **#🙋▹ajuda-sac**!
 - Também temos o nosso canal de ajuda comunitária(**#🎓▹chat-suporte**), que é geralmente tem uma resposta muito mais rápida do que pelos tickets. Porém isso vai de sua escolha 😉
 - Não esqueça de ser amigável! e evite de falar de coisas "vazadas" por lá. Evitamos causar confusões com qualquer outros desenvolvedores da comunidade de FiveM.
+- Link: https://discord.gg/jqpmr5FRuT
 <br>
