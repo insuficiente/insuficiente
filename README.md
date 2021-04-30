@@ -5,6 +5,6 @@ Sinta-se livre para escolher o qual você precisa para o seu servidor de rolepla
 <br>
 ### Nossa comunidade no Discord!
 - Lá você pode nos dar sugestões de scripts que possamos fazer, e também ficar sempre informado de todas as nossas atividades antecipadamente.
-- Oferecemos um suporte através do nosso sistema de tickets. Basta apenas digitar **-ticket** no nosso canal #🙋▹ajuda-sac.
+- Oferecemos um suporte gratuito através do nosso sistema de tickets. Basta apenas digitar **-ticket** no nosso canal #🙋▹ajuda-sac!
 <br>
 Seja amigável, e evite de falar de coisas "vazadas" por lá. Evitamos procurar confusões com qualquer outros desenvolvedores.
